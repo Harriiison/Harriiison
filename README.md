@@ -1,8 +1,22 @@
-![Welcome](https://img.harriiison.me/m2biBswafA.gif)
+![Welcome](https://media1.tenor.com/images/e884f717b42f78f0792d914117cd010d/tenor.gif)
 
-I like to code in Javascript, HTML/CSS, and Java.
+Hello I'm Harrison.
 
-In the past I have websites and created Discord Bots. I am currently a founder of the [Nonzero Discord Bot](https://nonzero.codes), and am a developer on a Minecraft Server making Java Plugins for them.
+Welcome to my small corner of the internet. I like to code in Javascript, HTML/CSS, and Java.
+
+In my spare time I am often working on my [Discord Bot Nonzero](https://nonzero.codes), or coding in Minecraft. 
+
+<br>
+
+**My Projects**
+| Name             | URL           |
+| -----------------|:-------------:|
+| Nonzero Bot      | https://nonzero.codes/invite |
+| Nonzero Website  | https://nonzero.codes        |
+| Minecraft Plugin | https://www.spigotmc.org/resources/chatquiz.87833/ |
+
+I have experience making Discord Bots, designing websites, and creating Minecraft plugins.
+
 
 ⠀⠀⠀✦ ⠀ ⠀　　　　　　　　　　　　　　⠀⠀⠀⠀⠀* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☄️ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☀️
@@ -25,4 +39,4 @@ In the past I have websites and created Discord Bots. I am currently a founder o
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
-Find me on Discord at **Harrison#4651** or at my website [here](https://harriiison.me).
+Find me on Discord as **Harrison#4651** or at my website [here](https://harriiison.me).
