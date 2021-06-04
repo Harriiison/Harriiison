@@ -6,13 +6,13 @@ Welcome to my small corner of the internet. I like to code in Javascript, HTML/C
 
 In my spare time I am often working on my [Discord Bot Nonzero](https://nonzero.codes), or coding in Minecraft. 
 
-<br>
+--------
 
 **My Coding Stats**<br><br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harriiison&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harriiison)
 
-<br>
+--------
 
 **My Projects**
 | Name             | URL           |
