@@ -4,7 +4,7 @@ Hello I'm Harrison.
 
 Welcome to my small corner of the internet. I like to code in Javascript, HTML/CSS, and Java.
 
-In my spare time I am often working on my [Discord Bot Nonzero](https://nonzero.codes), or coding in Minecraft. 
+In my spare time I am often working on my [Discord Bot Nonzero](https://nonzero.me), or coding in Minecraft. 
 
 --------
 
@@ -17,8 +17,8 @@ In my spare time I am often working on my [Discord Bot Nonzero](https://nonzero.
 **My Projects**
 | Name             | URL           |
 | -----------------|:-------------:|
-| Nonzero Bot      | https://nonzero.codes/invite |
-| Nonzero Website  | https://nonzero.codes        |
+| Nonzero Bot      | https://nonzero.me/invite |
+| Nonzero Website  | https://nonzero.me        |
 | Minecraft Plugin | https://www.spigotmc.org/resources/chatquiz.87833/ |
 
 I have experience making Discord Bots, designing websites, and creating Minecraft plugins.
